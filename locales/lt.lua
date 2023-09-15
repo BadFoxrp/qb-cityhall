@@ -6,7 +6,7 @@ local Translations = {
         recived_license = 'Jūs gavote savo %{value} už $50'
     },
     info = {
-        new_job_app = 'Your application was sent to the boss of (%{job})',
+        new_job_app = 'Jūsų paraiška buvo išsiųsta viršininkui (%{job})',
         bilp_text = 'Miesto paslaugos',
         city_services_menu = '~g~E~w~ - Miesto paslaugų meniu',
         id_card = 'Tapatybės kortelė',
@@ -16,8 +16,8 @@ local Translations = {
     },
     email = {
         jobAppSender = "%{job}",
-        jobAppSub = "Thank you for applying to %(job).",
-        jobAppMsg = "Hello %{gender} %{lastname}<br /><br />%{job} has received your application.<br /><br />The boss is looking into your request and will reach out to you for an interview at their earliest convienance.<br /><br />Once again, thank you for your application.",
+        jobAppSub = "Dėkojame, kad kreipėtės dėl %(job).",
+        jobAppMsg = "Hello %{gender} %{lastname}<br /><br />%{job} gavo jūsų prašymą.<br /><br />Viršininkas nagrinėja jūsų užklausą ir kuo anksčiau susisieks su jumis dėl pokalbio.<br /><br />Dar kartą dėkojame už jūsų paraišką.",
         mr = 'Pone',
         mrs = 'Ponia',
         sender = 'Los Santos',
